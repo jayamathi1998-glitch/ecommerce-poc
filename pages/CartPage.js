@@ -11,7 +11,7 @@ class CartPage extends BasePage {
     await this.page.waitForURL('**/cart', {timeout: 40000});
     await this.page.getByTestId('checkout').click();
     await this.page.waitForURL('**/checkout', {timeout: 40000});
-    console.log(success);
+    
   }
 }
  
