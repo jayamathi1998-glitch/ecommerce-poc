@@ -1,0 +1,20 @@
+{
+  "user": {
+    "username": "jaya_demo0025",
+    "email": "jayah00025@gmail.com",
+    "password": "Test@123",
+    "password2": "Test@123"
+  },
+  "product": {
+    "name": "JavaScript"
+  },
+  "billing": {
+    "name": "Jayahari",
+    "address": "123 Anna Nagar,Madurai,600025",
+    "holdername": "Jayahari",
+    "cardnumber": "4242424242424242",
+    "expirymonth": "12",
+    "expiryyear": "2029",
+    "cardcvc": "321"
+    }
+}
