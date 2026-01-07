@@ -4,7 +4,7 @@ module.exports = {
       'step-definitions/*.js',
       'support/hooks.js'
     ],
-    format: ['progress'],
+    format: ['progress', 'html:reports/cucumber-reporter.html'],
     timeout: 120000
   }
 };
